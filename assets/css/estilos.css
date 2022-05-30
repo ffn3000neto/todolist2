@@ -1,0 +1,8 @@
+.botao{
+    width: 125px;
+    margin-bottom: 10px;
+}
+.video {
+    background: url("../video/o_melhor_video.mp4");
+    background-size: cover;
+}
